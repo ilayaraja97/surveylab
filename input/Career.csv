@@ -1,0 +1,339 @@
+college,year,stream,cgpa,12th,10th,career,parents,income,locality,state
+IIITs,2nd,"Computer science and engineering,",<6,Private School,Private School,Higher study,Public Sector,> 10 lakhs,Urban,Rajasthan
+Government,4th,"Chemical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Haryana
+NITs,4th,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+Government,4th,"Electronics and communication engineering,",6-8,Private School,Private School,Entrepreneurship,Public Sector,> 10 lakhs,Urban,Delhi
+Private,3rd,"Information technology,",6-8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Self-Employed,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Electronics and communication engineering,",<6,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Bihar
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Private Sector,< 3 lakhs,Urban,Rajasthan
+IIITs,1st,"Electronics and communication engineering,",<6,Private School,Private School,Entrepreneurship,Business,> 10 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Madhya Pradesh
+IIITs,2nd,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Defence,3-6 lakhs,Rural,Rajasthan
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Public School,Public Sector Job,Defence,3-6 lakhs,Rural,Rajasthan
+IIITs,2nd,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Business,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Electrical engineering,",>8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Rajasthan
+IITs,3rd,"Civil engineering,",<6,Private School,Private School,Entrepreneurship,Business,3-6 lakhs,Urban,Delhi
+Private,4th,"Mechanical engineering,",>8,Public School,Public School,Private Sector job,Public Sector,> 10 lakhs,Urban,Rajasthan
+Government,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+NITs,2nd,"Civil engineering,",6-8,Public School,Public School,Public Sector Job,Business,3-6 lakhs,Urban,Rajasthan
+NITs,4th,Others,6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Jharkhand
+Private,4th,"Mechanical engineering,",6-8,Private School,Private School,Entrepreneurship,Self-Employed,3-6 lakhs,Urban,Delhi
+Private,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Business,> 10 lakhs,Urban,Delhi
+Private,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,> 10 lakhs,Urban,Delhi
+IIITs,1st,"Computer science and engineering,",<6,Public School,Private School,Private Sector job,Public Sector,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Bihar
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Entrepreneurship,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+Private,4th,"Mechanical engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Private Sector,> 10 lakhs,Urban,Haryana
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Urban,Uttarakhand
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,3-6 lakhs,Urban,Rajasthan
+Government,3rd,"Mechanical engineering,",6-8,Public School,Public School,Higher study,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Public School,Public School,Higher study,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",6-8,Public School,Public School,Higher study,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+NITs,2nd,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Rural,Rajasthan
+IIITs,1st,"Electronics and communication engineering,",>8,Private School,Private School,Higher study,Self-Employed,> 10 lakhs,Urban,Madhya Pradesh
+NITs,1st,"Electrical engineering,",<6,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,1st,"Mechanical engineering,",6-8,Public School,Private School,Entrepreneurship,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Private Sector,6-10 lakhs,Urban,Delhi
+Private,1st,"Electrical engineering,",6-8,Private School,Private School,Defence,Self-Employed,3-6 lakhs,Urban,Rajasthan
+IIITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Defence,Self-Employed,< 3 lakhs,Urban,Rajasthan
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,1st,Others,6-8,Private School,Private School,Higher study,Self-Employed,< 3 lakhs,Urban,Rajasthan
+Government,3rd,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Public School,Public School,Higher study,Public Sector,6-10 lakhs,Rural,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Business,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",6-8,Public School,Public School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Rajasthan
+Government,3rd,Electrical and electronics and engineering,6-8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Rural,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Entrepreneurship,Private Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Private Sector,6-10 lakhs,Urban,Haryana
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Defence,Private Sector,3-6 lakhs,Urban,Uttar Pradesh
+Private,3rd,"Electronics and communication engineering,",6-8,Public School,Public School,Private Sector job,Public Sector,> 10 lakhs,Rural,Rajasthan
+Private,4th,"Electronics and communication engineering,",6-8,Private School,Private School,Defence,Defence,> 10 lakhs,Urban,Uttar Pradesh
+Government,4th,"Information technology,",6-8,Public School,Public School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+NITs,3rd,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Entrepreneurship,Public Sector,> 10 lakhs,Urban,Rajasthan
+Private,4th,"Electronics and communication engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+Private,4th,"Computer science and engineering,",>8,Private School,Public School,Higher study,Public Sector,> 10 lakhs,Urban,Rajasthan
+Private,4th,"Electronics and communication engineering,",>8,Public School,Public School,Private Sector job,Public Sector,> 10 lakhs,Urban,Rajasthan
+Government,4th,"Information technology,",6-8,Public School,Public School,Higher study,Public Sector,6-10 lakhs,Rural,Rajasthan
+NITs,4th,"Computer science and engineering,",6-8,Public School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Madhya Pradesh
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Urban,Rajasthan
+Government,3rd,"Electrical engineering,",>8,Public School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Urban,Uttar Pradesh
+IIITs,4th,"Electronics and communication engineering,",6-8,Public School,Public School,Private Sector job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IITs,1st,"Computer science and engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+Private,4th,"Computer engineering,",6-8,Private School,Private School,Public Sector Job,Business,< 3 lakhs,Urban,Bihar
+IIITs,3rd,"Computer science and engineering,",6-8,Public School,Public School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Rajasthan
+Government,3rd,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Business,3-6 lakhs,Urban,Uttar Pradesh
+Private,4th,"Computer engineering,",>8,Private School,Private School,Private Sector job,Business,< 3 lakhs,Urban,Rajasthan
+Private,4th,"Computer science and engineering,",>8,Public School,Public School,Entrepreneurship,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+Private,1st,"Computer science and engineering,",>8,Private School,Public School,Entrepreneurship,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Urban,Madhya Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,3-6 lakhs,Urban,Madhya Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Private School,Public School,Entrepreneurship,Business,< 3 lakhs,Urban,Gujarat
+IIITs,1st,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Defence,6-10 lakhs,Rural,Rajasthan
+Government,3rd,"Electrical engineering,",6-8,Public School,Private School,Family business,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+Government,3rd,"Electrical engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Private Sector,3-6 lakhs,Rural,Madhya Pradesh
+Government,3rd,"Electrical engineering,",>8,Public School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Electronics and communication engineering,",>8,Public School,Public School,Higher study,Self-Employed,6-10 lakhs,Urban,Rajasthan
+IIITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Defence,3-6 lakhs,Urban,Rajasthan
+NITs,3rd,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+Government,3rd,"Electrical engineering,",6-8,Public School,Public School,Defence,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,Electrical and electronics and engineering,6-8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Higher study,Self-Employed,< 3 lakhs,Urban,Andhra Pradesh
+Government,3rd,"Electrical engineering,",6-8,Private School,Private School,Defence,Public Sector,3-6 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Private Sector,3-6 lakhs,Urban,Rajasthan
+Private,3rd,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Private Sector,6-10 lakhs,Urban,Rajasthan
+Private,4th,"Information technology,",6-8,Public School,Public School,Private Sector job,Public Sector,3-6 lakhs,Rural,Rajasthan
+Government,3rd,"Civil engineering,",6-8,Public School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Public School,Public School,Public Sector Job,Public Sector,6-10 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+Private,4th,"Computer science and engineering,",>8,Private School,Private School,Higher study,Business,3-6 lakhs,Urban,Rajasthan
+Government,3rd,"Electrical engineering,",6-8,Public School,Public School,Higher study,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Electrical engineering,",6-8,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+NITs,3rd,"Information technology,",>8,Private School,Private School,Public Sector Job,Self-Employed,3-6 lakhs,Urban,Haryana
+Government,3rd,"Electrical engineering,",>8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Electrical engineering,",>8,Public School,Public School,Public Sector Job,Private Sector,< 3 lakhs,Urban,Uttar Pradesh
+Government,3rd,"Electrical engineering,",6-8,Public School,Public School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Private School,Private School,Entrepreneurship,Private Sector,6-10 lakhs,Urban,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Public School,Public School,Public Sector Job,Private Sector,< 3 lakhs,Urban,Uttar Pradesh
+IIITs,1st,"Electronics and communication engineering,",<6,Public School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Rural,Bihar
+Private,4th,"Computer engineering,",>8,Private School,Private School,Private Sector job,Self-Employed,6-10 lakhs,Rural,Karnataka
+IIITs,1st,"Computer science and engineering,",6-8,Private School,Public School,Public Sector Job,Private Sector,3-6 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Mechanical engineering,",6-8,Public School,Private School,Public Sector Job,Business,3-6 lakhs,Rural,Uttar Pradesh
+Private,4th,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Andhra Pradesh
+Private,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Private Sector,6-10 lakhs,Rural,Karnataka
+Government,3rd,"Mechanical engineering,",6-8,Public School,Private School,Defence,Business,< 3 lakhs,Rural,Uttar Pradesh
+Government,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+Private,4th,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Business,> 10 lakhs,Urban,Rajasthan
+IITs,4th,"Civil engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Madhya Pradesh
+IIITs,3rd,"Electronics and communication engineering,",6-8,Public School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Higher study,Public Sector,> 10 lakhs,Urban,Rajasthan
+NITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Higher study,Private Sector,> 10 lakhs,Urban,Kerala
+IIITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Rural,Rajasthan
+IIITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Higher study,Public Sector,> 10 lakhs,Urban,Madhya Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+Private,3rd,"Computer science and engineering,",>8,Private School,Public School,Higher study,Business,3-6 lakhs,Urban,Rajasthan
+Private,4th,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+Private,2nd,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Business,3-6 lakhs,Rural,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",>8,Public School,Public School,Higher study,Private Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Business,3-6 lakhs,Urban,Gujarat
+NITs,1st,Others,6-8,Public School,Public School,Entrepreneurship,Business,3-6 lakhs,Urban,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",6-8,Public School,Public School,Private Sector job,Private Sector,> 10 lakhs,Urban,Delhi
+NITs,1st,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Electrical engineering,",>8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Urban,Rajasthan
+NITs,1st,Others,6-8,Public School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+Government,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,3rd,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Business,> 10 lakhs,Urban,Delhi
+NITs,1st,"Electrical engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,4th,"Electronics and communication engineering,",>8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Defence,6-10 lakhs,Urban,West Bengal
+NITs,1st,Others,6-8,Private School,Private School,Public Sector Job,Business,< 3 lakhs,Rural,Bihar
+NITs,1st,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+NITs,2nd,"Chemical engineering,",6-8,Private School,Private School,Private Sector job,Business,< 3 lakhs,Urban,Uttar Pradesh
+NITs,1st,Electrical and electronics and engineering,6-8,Public School,Public School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+Private,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Entrepreneurship,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",<6,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Madhya Pradesh
+NITs,1st,"Civil engineering,",>8,Private School,Private School,Public Sector Job,Business,3-6 lakhs,Urban,Rajasthan
+NITs,1st,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Rajasthan
+Government,4th,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Bihar
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Urban,Rajasthan
+IIITs,4th,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+NITs,1st,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,1st,Electrical and electronics and engineering,6-8,Public School,Public School,Entrepreneurship,Business,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Rural,Uttar Pradesh
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Higher study,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Electronics and communication engineering,",<6,Private School,Public School,Entrepreneurship,Self-Employed,< 3 lakhs,Urban,Rajasthan
+NITs,2nd,"Mechanical engineering,",6-8,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,1st,"Mechanical engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,3-6 lakhs,Rural,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Private Sector,> 10 lakhs,Urban,Rajasthan
+NITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Rajasthan
+Private,4th,"Electrical engineering,",6-8,Public School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Business,< 3 lakhs,Rural,Rajasthan
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,3-6 lakhs,Urban,Gujarat
+IIITs,3rd,"Computer science and engineering,",>8,Private School,Private School,Higher study,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Private Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Rural,Andhra Pradesh
+IIITs,3rd,"Electronics and communication engineering,",<6,Public School,Public School,Private Sector job,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Defence,Business,< 3 lakhs,Urban,Rajasthan
+IIITs,3rd,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Self-Employed,> 10 lakhs,Urban,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",<6,Private School,Private School,Defence,Public Sector,3-6 lakhs,Rural,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Business,< 3 lakhs,Urban,Uttar Pradesh
+IIITs,3rd,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,2nd,"Computer science and engineering,",>8,Private School,Private School,Higher study,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Defence,3-6 lakhs,Rural,Uttar Pradesh
+Private,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Private Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",<6,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Rural,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",<6,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Karnataka
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Electronics and communication engineering,",<6,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Karnataka
+IIITs,2nd,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,< 3 lakhs,Urban,Uttarakhand
+Private,3rd,"Civil engineering,",<6,Private School,Private School,Public Sector Job,Defence,3-6 lakhs,Rural,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Business,3-6 lakhs,Urban,Rajasthan
+IIITs,2nd,"Computer science and engineering,",<6,Private School,Private School,Private Sector job,Private Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Computer science and engineering,",<6,Private School,Private School,Entrepreneurship,Public Sector,6-10 lakhs,Rural,Gujarat
+IIITs,3rd,"Computer science and engineering,",>8,Public School,Public School,Defence,Self-Employed,< 3 lakhs,Urban,Maharashtra
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,2nd,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Rural,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Business,< 3 lakhs,Urban,Rajasthan
+IIITs,3rd,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Private Sector,6-10 lakhs,Urban,Uttar Pradesh
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+Private,3rd,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+NITs,1st,"Information technology,",<6,Public School,Public School,Defence,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+NITs,1st,"Electrical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Rural,Rajasthan
+NITs,2nd,"Mining engineering,",6-8,Public School,Public School,Public Sector Job,Public Sector,6-10 lakhs,Rural,Rajasthan
+Government,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+Government,4th,"Electronics and communication engineering,",<6,Public School,Public School,Entrepreneurship,Private Sector,> 10 lakhs,Urban,Lakshadweep
+Private,4th,"Computer science and engineering,",<6,Private School,Public School,Entrepreneurship,Public Sector,> 10 lakhs,Urban,Kerala
+Private,4th,"Computer science and engineering,",6-8,Public School,Public School,Entrepreneurship,Business,> 10 lakhs,Urban,Kerala
+IITs,4th,Others,6-8,Public School,Public School,Higher study,Public Sector,6-10 lakhs,Urban,Kerala
+NITs,1st,"Information technology,",6-8,Private School,Private School,Higher study,Private Sector,3-6 lakhs,Urban,Uttar Pradesh
+Government,4th,"Mechanical engineering,",6-8,Public School,Public School,Entrepreneurship,Public Sector,3-6 lakhs,Rural,Kerala
+Private,4th,"Computer science and engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Kerala
+Private,4th,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Kerala
+NITs,1st,"Computer science and engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Punjab
+NITs,1st,"Electronics and communication engineering,",<6,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+NITs,1st,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,4th,"Chemical engineering,",>8,Private School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,1st,"Information technology,",6-8,Public School,Public School,Private Sector job,Business,3-6 lakhs,Urban,Maharashtra
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Self-Employed,< 3 lakhs,Rural,Madhya Pradesh
+NITs,1st,"Information technology,",>8,Public School,Public School,Defence,Defence,< 3 lakhs,Rural,Uttar Pradesh
+NITs,3rd,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Haryana
+NITs,1st,"Information technology,",6-8,Public School,Public School,Private Sector job,Public Sector,< 3 lakhs,Rural,Madhya Pradesh
+NITs,1st,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Defence,< 3 lakhs,Urban,Uttar Pradesh
+NITs,2nd,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Rural,Uttar Pradesh
+NITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Defence,Public Sector,> 10 lakhs,Rural,Odisha
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Higher study,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Information technology,",6-8,Private School,Private School,Private Sector job,Private Sector,> 10 lakhs,Rural,Rajasthan
+NITs,1st,"Electrical engineering,",>8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Electronics and communication engineering,",>8,Public School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Chemical engineering,",6-8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Rural,Jharkhand
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Andhra Pradesh
+NITs,1st,Electrical and electronics and engineering,6-8,Private School,Private School,Higher study,Self-Employed,> 10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Higher study,Public Sector,> 10 lakhs,Urban,Haryana
+Private,1st,"Computer science and engineering,",>8,Public School,Public School,Defence,Defence,> 10 lakhs,Rural,Maharashtra
+NITs,1st,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+NITs,1st,"Production and industrial engineering,",6-8,Private School,Private School,Entrepreneurship,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Electronics and communication engineering,",>8,Public School,Private School,Entrepreneurship,Business,< 3 lakhs,Urban,Madhya Pradesh
+NITs,2nd,Biological engineering,6-8,Private School,Private School,Entrepreneurship,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+NITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Higher study,Private Sector,> 10 lakhs,Urban,Maharashtra
+NITs,1st,"Information technology,",6-8,Private School,Private School,Higher study,Private Sector,> 10 lakhs,Urban,Madhya Pradesh
+NITs,1st,"Computer engineering,",>8,Private School,Private School,Private Sector job,Public Sector,< 3 lakhs,Urban,Bihar
+NITs,1st,"Computer science and engineering,",6-8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Rural,Odisha
+NITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Entrepreneurship,Business,3-6 lakhs,Urban,Gujarat
+NITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,1st,"Information technology,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Mechanical engineering,",6-8,Private School,Private School,Defence,Private Sector,6-10 lakhs,Urban,Uttar Pradesh
+NITs,4th,Others,6-8,Private School,Private School,Public Sector Job,Self-Employed,3-6 lakhs,Rural,Rajasthan
+NITs,1st,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Information technology,",>8,Private School,Private School,Private Sector job,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,3-6 lakhs,Rural,Rajasthan
+NITs,1st,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Private Sector,< 3 lakhs,Urban,Uttar Pradesh
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Entrepreneurship,Self-Employed,> 10 lakhs,Urban,Uttar Pradesh
+NITs,2nd,"Mechanical engineering,",>8,Public School,Public School,Higher study,Public Sector,6-10 lakhs,Urban,Haryana
+NITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Madhya Pradesh
+Private,4th,"Computer science and engineering,",>8,Private School,Private School,Higher study,Business,3-6 lakhs,Urban,Haryana
+NITs,4th,"Electronics and communication engineering,",6-8,Private School,Private School,Entrepreneurship,Self-Employed,< 3 lakhs,Urban,Abroad
+NITs,2nd,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Private Sector,6-10 lakhs,Urban,Rajasthan
+NITs,1st,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+NITs,2nd,Others,<6,Private School,Private School,Private Sector job,Public Sector,3-6 lakhs,Urban,Rajasthan
+NITs,3rd,"Computer science and engineering,",6-8,Private School,Private School,Entrepreneurship,Self-Employed,< 3 lakhs,Rural,Rajasthan
+NITs,2nd,"Civil engineering,",6-8,Public School,Public School,Entrepreneurship,Business,3-6 lakhs,Rural,Rajasthan
+NITs,2nd,"Civil engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Haryana
+NITs,4th,"Civil engineering,",>8,Public School,Public School,Public Sector Job,Defence,6-10 lakhs,Urban,Rajasthan
+IIITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Private Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,3rd,"Information technology,",>8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Rajasthan
+NITs,4th,"Chemical engineering,",>8,Private School,Private School,Higher study,Public Sector,> 10 lakhs,Urban,Gujarat
+IIITs,4th,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Uttarakhand
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,1st,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+Government,4th,"Mechanical engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+NITs,3rd,"Chemical engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Rajasthan
+Government,4th,Others,6-8,Public School,Public School,Defence,Public Sector,< 3 lakhs,Urban,West Bengal
+NITs,4th,"Chemical engineering,",6-8,Public School,Public School,Higher study,Public Sector,> 10 lakhs,Urban,Uttar Pradesh
+NITs,4th,Others,>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+NITs,4th,"Chemical engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Uttar Pradesh
+NITs,4th,"Mechanical engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Madhya Pradesh
+Private,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Rural,Uttar Pradesh
+NITs,4th,"Mechanical engineering,",>8,Public School,Public School,Private Sector job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+NITs,4th,"Chemical engineering,",>8,Private School,Public School,Private Sector job,Business,3-6 lakhs,Urban,Rajasthan
+NITs,4th,"Mechanical engineering,",>8,Private School,Private School,Entrepreneurship,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+NITs,4th,"Chemical engineering,",6-8,Public School,Public School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,2nd,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Urban,Rajasthan
+NITs,4th,"Mechanical engineering,",>8,Private School,Private School,Private Sector job,Public Sector,3-6 lakhs,Rural,Uttar Pradesh
+Private,4th,"Computer science and engineering,",6-8,Public School,Public School,Higher study,Public Sector,3-6 lakhs,Urban,Haryana
+NITs,4th,"Electronics and communication engineering,",>8,Private School,Private School,Private Sector job,Private Sector,3-6 lakhs,Rural,Uttar Pradesh
+IIITs,1st,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Private Sector,< 3 lakhs,Urban,Haryana
+Government,4th,"Electronics and communication engineering,",<6,Public School,Public School,Public Sector Job,Business,> 10 lakhs,Urban,Kerala
+Government,4th,"Production and industrial engineering,",>8,Public School,Public School,Higher study,Public Sector,> 10 lakhs,Urban,Kerala
+IITs,3rd,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Kerala
+IIITs,4th,"Electronics and communication engineering,",>8,Private School,Private School,Higher study,Private Sector,> 10 lakhs,Urban,Haryana
+Government,3rd,"Computer science and engineering,",>8,Public School,Private School,Private Sector job,Private Sector,6-10 lakhs,Urban,West Bengal
+NITs,4th,"Mechanical engineering,",>8,Public School,Public School,Public Sector Job,Defence,6-10 lakhs,Urban,Kerala
+NITs,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Entrepreneurship,Private Sector,6-10 lakhs,Rural,Kerala
+Private,4th,Electrical and electronics and engineering,6-8,Private School,Private School,Higher study,Public Sector,6-10 lakhs,Rural,Uttar Pradesh
+IIITs,2nd,"Computer science and engineering,",6-8,Private School,Private School,Entrepreneurship,Public Sector,6-10 lakhs,Rural,Madhya Pradesh
+IIITs,3rd,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Kerala
+NITs,3rd,"Electronics and communication engineering,",6-8,Public School,Public School,Public Sector Job,Business,3-6 lakhs,Rural,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Business,6-10 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Entrepreneurship,Business,> 10 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Self-Employed,3-6 lakhs,Urban,Rajasthan
+IIITs,4th,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+Private,4th,"Information technology,",>8,Private School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Urban,Uttar Pradesh
+IIITs,4th,"Computer science and engineering,",>8,Private School,Public School,Private Sector job,Public Sector,6-10 lakhs,Urban,Maharashtra
+Government,3rd,"Electronics and communication engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Urban,Uttar Pradesh
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Entrepreneurship,Public Sector,6-10 lakhs,Rural,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Public Sector,6-10 lakhs,Rural,Rajasthan
+Government,4th,"Computer science and engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,6-10 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Public School,Public School,Private Sector job,Public Sector,3-6 lakhs,Rural,Haryana
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Business,3-6 lakhs,Rural,Rajasthan
+Government,2nd,"Mechanical engineering,",<6,Public School,Public School,Defence,Public Sector,> 10 lakhs,Rural,Telangana
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+Government,4th,"Computer science and engineering,",>8,Public School,Public School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+Government,3rd,"Computer science and engineering,",>8,Private School,Private School,Higher study,Business,3-6 lakhs,Urban,Rajasthan
+Private,2nd,Electrical and electronics and engineering,6-8,Public School,Private School,Family business,Business,6-10 lakhs,Urban,Punjab
+NITs,3rd,"Electronics and communication engineering,",<6,Private School,Public School,Defence,Private Sector,3-6 lakhs,Rural,Haryana
+IIITs,4th,"Computer science and engineering,",6-8,Public School,Public School,Public Sector Job,Self-Employed,< 3 lakhs,Rural,Uttar Pradesh
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Self-Employed,6-10 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Public School,Public School,Entrepreneurship,Self-Employed,> 10 lakhs,Rural,Uttar Pradesh
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Entrepreneurship,Business,> 10 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",>8,Private School,Private School,Private Sector job,Private Sector,> 10 lakhs,Urban,Delhi
+IITs,4th,"Computer science and engineering,",6-8,Public School,Private School,Public Sector Job,Public Sector,3-6 lakhs,Rural,Rajasthan
+IIITs,4th,"Electronics and communication engineering,",>8,Private School,Private School,Public Sector Job,Public Sector,> 10 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Public School,Private School,Private Sector job,Private Sector,< 3 lakhs,Urban,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Defence,3-6 lakhs,Rural,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Public Sector Job,Defence,3-6 lakhs,Rural,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Private School,Private School,Private Sector job,Self-Employed,< 3 lakhs,Rural,Rajasthan
+IIITs,4th,"Computer science and engineering,",6-8,Public School,Public School,Private Sector job,Public Sector,> 10 lakhs,Urban,Kerala
